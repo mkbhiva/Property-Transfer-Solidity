@@ -5,5 +5,5 @@ This smart contract having functionality to transfer the ownership without media
 
 ## License
 
-This Contract is released under the [MIT License](LICENSE) and thanks to [OpenZeppelin](https://openzeppelin.com).
+This Contract is released under the [MIT License](LICENSE).
 
